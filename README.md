@@ -35,5 +35,6 @@ after upload click analysis you will see
 
 
 note:many things can be add in future
+we can use this CNN to classify resume data
 
 
